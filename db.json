@@ -15,17 +15,17 @@
     {
       "type": "Bills",
       "amount": 200,
-      "currency": "USD",
+      "currency": "USD"
     },
     {
       "type": "Transport",
       "amount": 400,
-      "currency": "USD",
+      "currency": "USD"
     },
     {
       "type": "Shopping",
       "amount": 500,
-      "currency": "USD",
+      "currency": "USD"
     }
   ]
 }
