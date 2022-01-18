@@ -5,7 +5,7 @@
   },
   "income": {
     "amount": 20000,
-    "currency: "USD"
+    "currency": "USD"
   },
   "spent": {
     "amount": 6000,
