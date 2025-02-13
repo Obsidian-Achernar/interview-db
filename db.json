@@ -1,14 +1,14 @@
 {
    "currentBalance":{
-      "amount":14000,
+      "amount":2000000,
       "currency":"USD"
    },
    "income":{
-      "amount":20000,
+      "amount":24000000,
       "currency":"USD"
    },
    "spent":{
-      "amount":6000,
+      "amount":600000,
       "currency":"USD"
    },
    "expenses":[
